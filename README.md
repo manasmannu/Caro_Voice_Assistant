@@ -61,18 +61,14 @@ Uses TimeAPI.io for current:
 ## 📚 Wikipedia Search
 
 Caro fetches real facts for:
-• “Who is…”
-• “What is…”
+• “Who is…”, “What is…”
 • Political figures
 • Science / history topics
 
 ## 🔢 Built-In Math Evaluator
 
 Supports:
-• +
-• −
-• ×
-• ÷
+• +, −, ×, ÷
 • “plus”, “minus”, “times”, “divided by”
 
 ## ⏱️ Visual Timer with Countdown
@@ -91,26 +87,26 @@ Caro can:
 
 ## 😄 Jokes & Fun Mode
 
-Built-in one-line joke generator.
+    •   Built-in one-line joke generator.
 
 ## 📸 Screenshots
 
 ## 🛠️ Installation
 
-Clone the repository:
+### Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/caro-ai.git
 cd caro-ai
 ```
 
-Install dependencies:
+### Install dependencies:
 
 ```bash
 npm install
 ```
 
-Create a .env.local file:
+### Create a .env.local file:
 
 ```bash
 GROQ_API_KEY=your_groq_key
@@ -118,26 +114,28 @@ OPENWEATHER_API_KEY=your_weather_key
 SOFTAI_TIMEZONE=America/Denver
 ```
 
-Run the local server:
+### Run the local server:
 
 ```bash
 npm run dev
 ```
 
-Open:
+### Open:
+
 👉 http://localhost:3000
 
 ## Supported Voice Commands
 
-Examples:
-• “What’s the date today?”
-• “What time is it now?”
-• “Calculate 45 divided by 7?”
-• “Set a timer for 10 minutes.”
-• “Open linkedin.com”
-• “Search Google for best hotels in Denver”
-• “Play jazz music”
-• “Tell me about Denver, Colorado”
+### Examples:
+
+    •   “What’s the date today?”
+    •   “What time is it now?”
+    •   “Calculate 45 divided by 7?”
+    •   “Set a timer for 10 minutes.”
+    •   “Open linkedin.com”
+    •   “Search Google for best hotels in Denver”
+    •   “Play jazz music”
+    •   “Tell me about Denver, Colorado”
 
 ## Brand Name
 
