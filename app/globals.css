@@ -24,3 +24,56 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+/* Mic pulse animation */
+@keyframes mic-ping {
+  0% {
+    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.6);
+  }
+  70% {
+    box-shadow: 0 0 0 15px rgba(239, 68, 68, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0);
+  }
+}
+
+.animate-mic-ping {
+  animation: mic-ping 1.5s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+/* Custom scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f3f4f6;
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #14b8a6;
+  border-radius: 10px;
+}
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #14b8a6 #f3f4f6;
+}
+
+.wave-bar {
+  height: 4px;
+  animation: wave 1s ease-in-out infinite;
+}
+
+@keyframes wave {
+  0%,
+  100% {
+    height: 4px;
+    opacity: 0.4;
+  }
+  50% {
+    height: 18px;
+    opacity: 1;
+  }
+}
