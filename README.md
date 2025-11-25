@@ -23,6 +23,10 @@ It works like a lightweight Siri/Alexa that runs entirely in the browser — no 
 Speak, ask questions, set timers, play music, open websites, or have natural conversations…
 Caro listens and responds instantly with voice + text, powered by fast real-time speech recognition.
 
+## 🚀 Live Demo
+
+Use Caro here: https://caro-voice-assistant.vercel.app/
+
 ## Features
 
 ## 🗣️ Real-time Speech Recognition
