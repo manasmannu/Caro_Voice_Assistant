@@ -38,38 +38,43 @@ Caro listens and responds instantly with voice + text, powered by fast real-time
 
 ## 🤖 Groq LLM Integration
 
-Powered by Groq’s ultra-fast Llama models (8B/70B) for:
-• Natural conversations
-• Smart responses
-• Intent classification fallback
+### Powered by Groq’s ultra-fast Llama models (8B/70B) for:
+
+    •   Natural conversations
+    •   Smart responses
+    •   Intent classification fallback
 
 ## 🌦️ Live Weather Queries
 
-Uses OpenWeather API to get:
-• Temperature
-• Conditions
-• Localized city results
+### Uses OpenWeather API to get:
+
+    •   Temperature
+    •   Conditions
+    •   Localized city results
 
 ## 📅 Live Date & Time
 
-Uses TimeAPI.io for current:
-• Local time
-• Day
-• Date
-• Time zone
+### Uses TimeAPI.io for current:
+
+    •   Local time
+    •   Day
+    •   Date
+    •   Time zone
 
 ## 📚 Wikipedia Search
 
-Caro fetches real facts for:
-• “Who is…”, “What is…”
-• Political figures
-• Science / history topics
+### Caro fetches real facts for:
+
+    •   “Who is…”, “What is…”
+    •   Political figures
+    •   Science / history topics
 
 ## 🔢 Built-In Math Evaluator
 
-Supports:
-• +, −, ×, ÷
-• “plus”, “minus”, “times”, “divided by”
+### Supports:
+
+    •   +, −, ×, ÷
+    •   “plus”, “minus”, “times”, “divided by”
 
 ## ⏱️ Visual Timer with Countdown
 
@@ -79,11 +84,12 @@ Supports:
 
 ## 🌐 System Actions
 
-Caro can:
-• Open websites
-• Search Google
-• Launch apps (web only)
-• Play music on YouTube
+### Caro can:
+
+    •   Open websites
+    •   Search Google
+    •   Launch apps (web only)
+    •   Play music on YouTube
 
 ## 😄 Jokes & Fun Mode
 
